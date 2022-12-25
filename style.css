@@ -1,0 +1,51 @@
+body
+{
+    background-size: cover;
+}
+.heading
+{
+    width: 100%;
+    text-align: left;
+}
+.heading h3
+{
+    display: inline;
+    float: left;
+}
+.heading button
+{
+    float: right;
+    border: 1px dotted whitesmoke;
+}
+.bi
+{
+    width: 100%;
+}
+.b
+{
+font-size:25px;
+}
+h4
+{
+    background-color: whitesmoke;
+    line-height: 2;
+    margin: 0px;
+}
+.modal-dialog
+{
+    width: 90%;
+}
+
+.ins_i
+{
+    display: inline-block;
+    width: 45%;
+}
+video
+{
+    background:url("game_console.png") ;
+    background-size: cover;
+    background-position:center;
+    padding:25px ;
+    
+}
